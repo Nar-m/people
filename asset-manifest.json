@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nar-m/people/static/css/main.81a5b1f5.css",
+    "main.js": "/Nar-m/people/static/js/main.cd7b3650.js",
+    "static/js/453.e66df55e.chunk.js": "/Nar-m/people/static/js/453.e66df55e.chunk.js",
+    "index.html": "/Nar-m/people/index.html",
+    "main.81a5b1f5.css.map": "/Nar-m/people/static/css/main.81a5b1f5.css.map",
+    "main.cd7b3650.js.map": "/Nar-m/people/static/js/main.cd7b3650.js.map",
+    "453.e66df55e.chunk.js.map": "/Nar-m/people/static/js/453.e66df55e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81a5b1f5.css",
+    "static/js/main.cd7b3650.js"
+  ]
+}
